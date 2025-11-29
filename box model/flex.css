@@ -1,0 +1,19 @@
+.container{
+    display:flex;
+    background-color:#fff;
+    padding: 10px;
+    border: 1px solid #ccc;
+
+}
+.box{
+    background-color: #4CAF50;
+    color:white;
+    padding:20px;
+    text-align:center;
+    border-radius: 5px;
+}
+.box1{ background-color : #c238c7}
+.box2{ background-color :rgb(109, 224, 190)}
+.box3{ background-color : #84bfef}
+.box4{ background-color : rgb(223, 180, 63)}
+.box5{ background-color: #e94646}
