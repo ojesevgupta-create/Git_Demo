@@ -57,5 +57,19 @@ input[type="text"] {
 input[type="text"]::placeholder {
     color: #ccc;
 }
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #ff8c00;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #cc6b00;
+}
 
 
