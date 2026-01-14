@@ -126,6 +126,32 @@ button:hover {
     font-weight: bold;
     color: #fff;
 }
+body.clear {
+    background-image: url('https://images.pexels.com/photos/459451/pexels-photo-459451.jpeg?cs=srgb&dl=pexels-pixabay-459451.jpg&fm=jpg');
+}
+
+body.clouds {
+    background-image: url('https://images.pexels.com/photos/459451/pexels-photo-459451.jpeg?cs=srgb&dl=pexels-pixabay-459451.jpg&fm=jpg');
+}
+
+body.rain {
+    background-image: url('https://images.pexels.com/photos/459451/pexels-photo-459451.jpeg?cs=srgb&dl=pexels-pixabay-459451.jpg&fm=jpg');
+}
+
+body.snow {
+    background-image: url('https://images.pexels.com/photos/459451/pexels-photo-459451.jpeg?cs=srgb&dl=pexels-pixabay-459451.jpg&fm=jpg');
+}
+
+body.default {
+    background-image: url('https://images.pexels.com/photos/459451/pexels-photo-459451.jpeg?cs=srgb&dl=pexels-pixabay-459451.jpg&fm=jpg');
+}
+
+body {
+    background-image: url('https://media.istockphoto.com/id/926497236/photo/tropical-sea-in-summer.jpg?s=612x612&w=0&k=20&c=SgT--E-a5_UF4GPVnpC6r1IDtThuDiUHmtTbhHg5zJA=');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 
 
 
