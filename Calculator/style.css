@@ -95,5 +95,5 @@ button:not(.clear):not(.equal):not(:nth-child(-n+4)) {
 }
 
 button:not(.clear):not(.equal):not(:nth-child(-n+4)):hover {
-    background-color: #90caf9; 
+    background-color: #70a8d6; 
 }
