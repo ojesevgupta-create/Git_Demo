@@ -34,3 +34,22 @@
     margin-left: 15px;
     font-size: 1rem;
 }
+
+@media (max-width: 768px){
+    .nav-links{
+        display: none;
+    }
+    .actions {
+        font-size:0.9rem;
+    }
+}
+@media(min-width: 770px)and(max-width:1024px){
+    .nav-links a{
+        font-size: 0.9rem;
+    }
+}
+@media(min-width:1025px){
+    .nav-links a{
+        font-size: 1rem;
+    }
+}
